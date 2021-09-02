@@ -41,7 +41,7 @@ Another challange will be to balance sufficiently powerful devices for the syste
 
 ## What next?
 
-Hopefully this project will generate new ideas in organisations working in this field of tecnologies.
+Hopefully this project will generate new ideas in organisations working in this field of technologies.
 
 
 ## Acknowledgments
