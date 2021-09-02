@@ -4,7 +4,8 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Virtual Pal
 
-Final project for the Building AI course. 
+Building AI course project.
+
 Note this is merly an idea for a possibly future implementation.
 
 ## Summary
